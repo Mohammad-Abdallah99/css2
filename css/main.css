@@ -1,0 +1,26 @@
+.first{
+    text-align:center;
+    height: 120px;
+}
+.second{
+    text-align: center;
+}
+.block{
+    float:left;
+    text-align: center;
+    width:20%;
+}
+.clear{
+    clear: both;
+}
+p{
+    width:99%;
+}
+i{
+    width:100px ;
+    height: 60px;
+    background-color: gold;
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+}
